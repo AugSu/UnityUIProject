@@ -1,0 +1,32 @@
+﻿{
+    "infoList": [
+        {
+            "uiTypeString": "MainMenu",
+            "uiPanelPath": "UIPanel/MainMenuPanel"
+        },
+        {
+            "uiTypeString": "ItemMessage",
+            "uiPanelPath": "UIPanel/ItemMessagePanel"
+        },
+        {
+            "uiTypeString": "Knapsack",
+            "uiPanelPath": "UIPanel/KnapsackPanel"
+        },
+        {
+            "uiTypeString": "Shop",
+            "uiPanelPath": "UIPanel/ShopPanel"
+        },
+        {
+            "uiTypeString": "Skill",
+            "uiPanelPath": "UIPanel/SkillPanel"
+        },
+        {
+            "uiTypeString": "System",
+            "uiPanelPath": "UIPanel/SystemPanel"
+        },
+        {
+            "uiTypeString": "Task",
+            "uiPanelPath": "UIPanel/TaskPanel"
+        }
+    ]
+}
